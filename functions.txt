@@ -1,0 +1,32 @@
+function means nothing but a group of statements
+
+two types of functions
+    user defined
+    we are the one going to create this functions
+steps for creating  a user defined functions
+
+functions functionname([arguments]){
+    statements;
+    statements;
+    .
+    .
+    .
+    return [optional]
+}
+note:- calling a function with its name mandatory
+
+pre-defined
+    developers are already created these functions
+log, for, while, alert, prompt, confirm
+
+
+events:-
+onclick
+onchange
+unsubmit
+onkeypress
+onkeydown
+onkeysetup
+onmouseover
+onmouseout
+
